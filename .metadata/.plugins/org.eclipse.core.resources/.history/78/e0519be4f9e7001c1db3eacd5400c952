@@ -1,0 +1,14 @@
+
+public class Subscriber {
+	private String name;
+	private Channel channel = new Channel();
+	
+	public void update() {
+		System.out.println("video uploaded!");
+	}
+	
+	public void subscribeChannel(Channel ch)
+	{
+		channel = ch;
+	}
+}

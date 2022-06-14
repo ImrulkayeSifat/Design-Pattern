@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 3 elements to &apos;Chat/src/Server&apos;&#x0A;- Original project: &apos;Multithreading-Chat-Server-Java-master&apos;&#x0A;- Destination element: &apos;Chat/src/Server&apos;&#x0A;- Original elements:&#x0A;     ClientHandler.java&#x0A;     ConnectionHandler.java&#x0A;     Server.java" description="Copy files" destination="=Chat/src&lt;Server" element1="Java/src/Server/ClientHandler.java" element2="Java/src/Server/ConnectionHandler.java" element3="Java/src/Server/Server.java" files="3" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1655212529093" units="0" version="1.0"/>
+</session>

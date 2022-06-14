@@ -1,0 +1,5 @@
+package com.usal.clientPattern;
+
+public class Client {
+
+}
